@@ -1,0 +1,15 @@
+{
+  "name": "calculador-de-partidas-rankeadas-dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "calculador-de-partidas-rankeadas-dio"
+  },
+  "author": "DeivRicardoSS",
+  "license": "ISC"
+}
